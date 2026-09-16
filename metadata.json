@@ -1,0 +1,6 @@
+{
+  "name": "JobRail",
+  "description": "Kenya's service-management platform: request service, compare structured quotes, track progress, approve work, pay securely, and keep permanent service records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
